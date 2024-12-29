@@ -32,4 +32,4 @@ end_time = time.time()
 total_time = end_time - start_time
 
 print("Your time is",total_time,"seconds")
-print("You had",wrong,"wrong answers.")
+print("You have",wrong,"wrong answers.")
